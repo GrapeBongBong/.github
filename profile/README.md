@@ -1,4 +1,4 @@
-## Hi there 👋
+## :four_leaf_clover:Team!!
 
 | <a href="https://github.com/jeinie"><img src="https://avatars.githubusercontent.com/u/68533847?v=4" width="90" height="90"></a> | <a href="https://github.com/jueun0725"><img src="https://avatars.githubusercontent.com/u/82727761?v=4" width="90" height="90"></a> | <a href="https://github.com/newJunsung"><img src="https://avatars.githubusercontent.com/u/107932188?v=4" width="90" height="90"></a> | <a href="https://github.com/ois0886"><img src="https://avatars.githubusercontent.com/u/58154638?v=4" width="90" height="90"></a> 
 | ----- | ----- | ----- | ----- |
