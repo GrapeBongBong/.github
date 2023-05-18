@@ -16,6 +16,9 @@
 - 개발도구 : Android Studio, Xcode, IntellJ, AWS
 - 개발언어 : Kotlin, Swift, Java, MySQL
 
+## Pamphlet
+![KakaoTalk_Photo_2023-05-18-17-47-54](https://github.com/GrapeBongBong/.github/assets/58154638/cce60ed0-b150-467e-939f-7259fa9ece95)
+
 ## :four_leaf_clover:Team!!
 
 | <a href="https://github.com/jeinie"><img src="https://avatars.githubusercontent.com/u/68533847?v=4" width="90" height="90"></a> | <a href="https://github.com/jueun0725"><img src="https://avatars.githubusercontent.com/u/82727761?v=4" width="90" height="90"></a> | <a href="https://github.com/newJunsung"><img src="https://avatars.githubusercontent.com/u/107932188?v=4" width="90" height="90"></a> | <a href="https://github.com/ois0886"><img src="https://avatars.githubusercontent.com/u/58154638?v=4" width="90" height="90"></a> 
